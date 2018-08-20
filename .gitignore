@@ -1,4 +1,6 @@
 # Xcode
+SwiftSocket.xcodeproj
+.build
 build/
 *.pbxuser
 !default.pbxuser
